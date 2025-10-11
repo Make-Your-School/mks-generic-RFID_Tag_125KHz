@@ -1,4 +1,3 @@
-
 ---
 title: "RFID-Transponder"
 date: "2018-10-01T14:41:57.000Z"
