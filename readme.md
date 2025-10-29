@@ -15,9 +15,6 @@ clone_url: "https://github.com/Make-Your-School/mks-generic-RFID_Tag_125KHz.git"
 repo_prefix: "mks"
 repo_part: "RFID_Tag_125KHz"
 embedded_example_file: "examples/RFID_Tag_125KHz_minimal/RFID_Tag_125KHz_minimal.ino"
-title: 'RFID-Transponder'
-status: 'active'
-difficulty: 'advanced'
 ---
 
 
